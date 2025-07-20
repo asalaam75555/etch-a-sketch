@@ -1,0 +1,1 @@
+This projcet will help finish an TOP assignment section and help me enhance my DOM manipulation skill
